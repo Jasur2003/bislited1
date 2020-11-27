@@ -222,7 +222,6 @@ margin-right:15px;
 .about-title {
   padding: 12px 0px 20px 60px;
   margin-bottom: 15px;
-  position: relative;
 }
 
 .about-text {
@@ -283,10 +282,9 @@ margin-right:15px;
   width: calc((100% / 4) - 33.4px);
   position: relative;
   overflow: hidden;
+  margin:0 20px;
 }
-.work:not(:last-child) {
-  margin-right: 40px;
-}
+
 .works-title {
   padding: 25px 0 18px 40px;
 

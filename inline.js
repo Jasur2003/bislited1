@@ -51,12 +51,6 @@ $('.works-box').slick({
     nextArrow:'<button type="button" class="slick-next work-right"><img src="img/arrow-right.svg"></button>',
     prevArrow:'<button type="button" class="slick-prev work-left"><img src="img/arrow-left.svg"></button>',
     responsive:[
-      {
-        breakpoint: 1400,
-            settings:{
-                slidesToShow:3,
-            },
-        },
         {
             breakpoint: 900,
                 settings:{
